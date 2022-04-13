@@ -60,7 +60,7 @@ The Angular Accordion component can use a nested vertical (hierarchical) navigat
 
 [Community Forums](https://www.syncfusion.com/forums/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
 [Knowledge base](https://www.syncfusion.com/kb/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
