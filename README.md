@@ -27,23 +27,23 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Features and benefits
-## Expand and collapse
+### Expand and collapse
 
 The Angular Accordion component allows you to customize the expand and collapse actions.
 
-## Accordion templates
+### Accordion templates
 
 The Accordion component allows you to customize the header and content panel appearance using given HTML elements.
 
-## JSON array binding
+### JSON array binding
 
 The Accordion component can be rendered based on a JSON array collection of properties such as headers and content. Data binding can be achieved by an array collection of items.
 
-## Accordion navigation menu
+### Accordion navigation menu
 
 The Angular Accordion component can use a nested vertical (hierarchical) navigation menu with links, including external links, in the accordion header.
 
-## Icon support
+### Icon support
 
 Add prefix icons or images to the panel header. The default expand and collapse icon used in the header is customizable.
 
@@ -56,11 +56,13 @@ Add prefix icons or images to the panel header. The default expand and collapse 
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/accordion/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
-[Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/accordion/default?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/ej2-angular-11-accordion?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
+
+[Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/accordion/default?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
 [Knowledge base](https://support.syncfusion.com/kb/article/10873/how-to-get-started-easily-with-syncfusion-angular-11-accordion?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
