@@ -56,7 +56,7 @@ Add prefix icons or images to the panel header. The default expand and collapse 
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/accordion/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/ej2-angular-11-accordion?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/ej2-angular-11-accordion?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
 
@@ -68,7 +68,7 @@ Add prefix icons or images to the panel header. The default expand and collapse 
 
 ### About Syncfusion Angular UI Components
 
-Syncfusion's Angular UI Components library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Accordion, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples).
+Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Accordion, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples).
 
 ### About Syncfusion
 
