@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Features and benefits
 ### Expand and collapse
 
-The Angular Accordion component allows you to customize the expand and collapse actions.
+The Angular Accordion component allows you to customize the [expand](https://ej2.syncfusion.com/angular/documentation/accordion/expand-mode?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples) and collapse actions.
 
 ### Accordion templates
 
